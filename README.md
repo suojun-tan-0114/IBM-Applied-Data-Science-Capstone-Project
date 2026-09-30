@@ -89,6 +89,8 @@ SQLite was used to perform additional exploratory analysis. Queries included:
 * Analyzing failed drone-ship landings by year
 * Ranking landing outcomes over selected time periods
 
+## 4. Interactive Visual Analytics (Folium & Plotly Dash)
+
 ### Interactive Maps with Folium
 
 Folium was used to explore the geographical locations of SpaceX launch facilities. The maps include:
@@ -109,7 +111,7 @@ An interactive dashboard was created using **Plotly Dash**. Users can:
 * Filter launches by payload mass
 * Explore the relationship between payload mass, booster version, and landing success
 
-## 4. Predictive Analysis
+## 5. Predictive Analysis
 
 The objective of this machine-learning stage is to predict whether a Falcon 9 first stage will successfully land. 
 
