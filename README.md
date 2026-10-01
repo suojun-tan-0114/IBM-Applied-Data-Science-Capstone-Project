@@ -133,7 +133,7 @@ Results from the current saved notebook run are:
 | ---------------------- | -----------------------------: | ------------: |
 | Logistic Regression    |                         84.64% |        83.33% |
 | Support Vector Machine |                         84.82% |        83.33% |
-| Decision Tree          |                     **87.68%** |        83.33% |
+| Decision Tree          |                     **89.11%** |        83.33% |
 | K-Nearest Neighbors    |                         84.82% |        83.33% |
 
 The **Decision Tree** achieved the highest cross-validation accuracy in the current run. However, all four tuned models achieved the same **83.33% accuracy on the held-out test set**, so the test results do not show a clear performance advantage for any one classifier.
